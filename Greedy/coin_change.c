@@ -1,3 +1,4 @@
+//Greedy algorithm to find the minimum number of coins needed to make a given amount of money.
 #include <stdio.h>
 
 void findMin(int cost, int coins[], int n) {
